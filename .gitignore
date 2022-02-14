@@ -1,3 +1,7 @@
 node_modules
-script.json
+script.js
 *config*
+info.md 
+package-lock.json
+package.json
+*script*
