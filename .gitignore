@@ -1,7 +1,9 @@
 node_modules
-script.js
+
 *config*
 info.md 
 package-lock.json
 package.json
-*script*
+script.js
+uris
+uris.txt
